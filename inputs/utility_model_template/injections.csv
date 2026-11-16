@@ -1,0 +1,2 @@
+operating_case,bus_id,injection_type,mw,mvar,minimum_mw,maximum_mw,data_status
+maximum_demand,POC,background_load,,,,,replace_with_utility_data

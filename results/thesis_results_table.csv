@@ -1,0 +1,50 @@
+study,case,result_value,result_unit,binding_or_outcome,classification
+Bouldercombe 275 kV Thevenin,"intact, PF 0.98",623.0,MW,Voltage below 0.95 pu,Voltage-only Thevenin screening equivalent
+Bouldercombe 275 kV Thevenin,"intact, SCR at 245 MW",19.6,ratio,Short-circuit ratio,Screening indicator
+Bouldercombe 275 kV Thevenin,"n_minus_1, PF 0.98",530.0,MW,Voltage below 0.95 pu,Voltage-only Thevenin screening equivalent
+Bouldercombe 275 kV Thevenin,"n_minus_1, SCR at 245 MW",16.7,ratio,Short-circuit ratio,Screening indicator
+Calliope River 275 kV Thevenin,"intact, PF 0.98",641.0,MW,Voltage below 0.95 pu,Voltage-only Thevenin screening equivalent
+Calliope River 275 kV Thevenin,"intact, SCR at 245 MW",20.2,ratio,Short-circuit ratio,Screening indicator
+Calliope River 275 kV Thevenin,"n_minus_1, PF 0.98",536.0,MW,Voltage below 0.95 pu,Voltage-only Thevenin screening equivalent
+Calliope River 275 kV Thevenin,"n_minus_1, SCR at 245 MW",16.9,ratio,Short-circuit ratio,Screening indicator
+Larcom Creek 275 kV Thevenin,"intact, PF 0.98",567.0,MW,Voltage below 0.95 pu,Voltage-only Thevenin screening equivalent
+Larcom Creek 275 kV Thevenin,"intact, SCR at 245 MW",17.9,ratio,Short-circuit ratio,Screening indicator
+Larcom Creek 275 kV Thevenin,"n_minus_1, PF 0.98",203.0,MW,Voltage below 0.95 pu,Voltage-only Thevenin screening equivalent
+Larcom Creek 275 kV Thevenin,"n_minus_1, SCR at 245 MW",6.4,ratio,Short-circuit ratio,Screening indicator
+Pegs Creek 22 kV Thevenin,"public_upper_bound, PF 0.90",18.0,MW,Published thermal headroom,Voltage-and-thermal public-data upper-bound screen
+Pegs Creek 22 kV Thevenin,"public_upper_bound, SCR at 245 MW",1.1,ratio,Short-circuit ratio,Screening indicator
+Bulgarra 22 kV Thevenin,"public_upper_bound, PF 0.90",20.0,MW,Voltage below 0.95 pu,Voltage-and-thermal public-data upper-bound screen
+Bulgarra 22 kV Thevenin,"public_upper_bound, SCR at 245 MW",1.1,ratio,Short-circuit ratio,Screening indicator
+Wedgefield 22 kV Thevenin,"public_upper_bound, PF 0.90",18.0,MW,Published thermal headroom,Voltage-and-thermal public-data upper-bound screen
+Wedgefield 22 kV Thevenin,"public_upper_bound, SCR at 245 MW",1.1,ratio,Short-circuit ratio,Screening indicator
+Karratha 132 kV ring,"intact, PF 0.96",74.0,MW,PCK voltage below 0.95 pu,Reduced-network sensitivity
+Karratha 132 kV ring,"n_minus_1_krt_pck, PF 0.96",53.0,MW,PCK voltage below 0.95 pu,Reduced-network sensitivity
+Karratha 132 kV ring,"n_minus_1_krt_bul, PF 0.96",66.0,MW,PCK voltage below 0.95 pu,Reduced-network sensitivity
+Karratha 132 kV ring,"n_minus_1_bul_pck, PF 0.96",66.0,MW,PCK voltage below 0.95 pu,Reduced-network sensitivity
+Karratha 132 kV ring,sensitivity firm N-1 range,0-93,MW,"Source strength, PF and source voltage sweep",Assumption sensitivity
+Pilbara uncertainty,firm N-1 P05,53.0,MW,1000-sample Latin hypercube,Not a utility probability
+Pilbara uncertainty,firm N-1 P50,82.0,MW,1000-sample Latin hypercube,Not a utility probability
+Pilbara uncertainty,firm N-1 P95,88.0,MW,1000-sample Latin hypercube,Not a utility probability
+Pilbara uncertainty,line-rating ceiling,94.0,MW,92% of samples thermally limited,Assumption sensitivity
+Rockhampton multi-year sizing,"training, 180 MW limit, Least cost (any charging)",400 MW PV + 150 MW/900 MWh,configuration,AUD 251.8 m/yr; on-site RE 42%,Planning sensitivity
+Rockhampton multi-year sizing,"training, 200 MW limit, Least cost (any charging)",200 MW PV + 50 MW/100 MWh,configuration,AUD 218.4 m/yr; on-site RE 27%,Planning sensitivity
+Rockhampton multi-year sizing,"training, 200 MW limit, Least cost (no grid charging)",400 MW PV + 50 MW/200 MWh,configuration,AUD 229.7 m/yr; on-site RE 41%,Planning sensitivity
+Rockhampton multi-year sizing,"training, 230 MW limit, Least cost (any charging)",200 MW PV + 0 MW/0 MWh,configuration,AUD 213.1 m/yr; on-site RE 27%,Planning sensitivity
+Rockhampton multi-year sizing,"training, 230 MW limit, Least cost (no grid charging)",200 MW PV + 0 MW/0 MWh,configuration,AUD 213.1 m/yr; on-site RE 27%,Planning sensitivity
+Multi-site comparison,Gladstone,1,rank,score 0.63; Passes network screen,Relative screening ranking
+Multi-site comparison,Rockhampton,2,rank,score 0.61; Passes network screen,Relative screening ranking
+Multi-site comparison,Livingstone (Yeppoon),3,rank,score 0.57; Passes network screen,Relative screening ranking
+Multi-site comparison,Karratha,4,rank,score 0.52; Fails network screen - augmentation required,Relative screening ranking
+Multi-site comparison,Port Hedland,5,rank,score 0.38; Fails network screen - augmentation required,Relative screening ranking
+Model validation,maximum Thevenin voltage difference,6.63e-05,pu,Independent phasor calculation,Implementation check
+Dynamic screening (voltage),"Bouldercombe 275 kV, minimum condition",6/6,events passing,All events pass,Reduced-order screening; step limit is an assumption pending Powerlink confirmation
+Dynamic screening (voltage),"Calliope River 275 kV, minimum condition",6/6,events passing,All events pass,Reduced-order screening; step limit is an assumption pending Powerlink confirmation
+Dynamic screening (voltage),"Larcom Creek 275 kV, minimum condition",2/6,events passing,Network outage (intact to N-1); On-site PV trip (import rises); Sudden facility load loss; Sudden full load pickup,Reduced-order screening; step limit is an assumption pending Powerlink confirmation
+Dynamic screening (voltage),"Pegs Creek 132 kV (Karratha ring), minimum condition",0/6,events passing,BESS trip while discharging; Network outage (intact to N-1); On-site PV trip (import rises); Sudden facility load loss; Sudden full load pickup; Training-load swing pickup,Reduced-order screening; step limit is an assumption pending Powerlink confirmation
+Dynamic screening (voltage),"Wedgefield 22 kV, minimum condition",0/5,events passing,BESS trip while discharging; On-site PV trip (import rises); Sudden facility load loss; Sudden full load pickup; Training-load swing pickup,Reduced-order screening; step limit is an assumption pending Powerlink confirmation
+Dynamic screening (frequency),"NEM, minimum condition",5/5,events passing,largest event = 33% of largest credible contingency,Assumed system parameters - VERIFY
+Dynamic screening (frequency),"NEM, maximum condition",5/5,events passing,largest event = 33% of largest credible contingency,Assumed system parameters - VERIFY
+Dynamic screening (frequency),"NWIS, minimum condition",0/5,events passing,largest event = 327% of largest credible contingency,Assumed system parameters - VERIFY
+Dynamic screening (frequency),"NWIS, maximum condition",0/5,events passing,largest event = 327% of largest credible contingency,Assumed system parameters - VERIFY
+Dynamic screening (frequency),"QLD_islanded, minimum condition",3/5,events passing,largest event = 33% of largest credible contingency,Assumed system parameters - VERIFY
+Dynamic screening (frequency),"QLD_islanded, maximum condition",5/5,events passing,largest event = 33% of largest credible contingency,Assumed system parameters - VERIFY

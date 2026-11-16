@@ -1,0 +1,8 @@
+case_id,label,solar_mw,bess_power_mw,bess_energy_mwh,allow_grid_charging
+baseline,Grid-only baseline,0,0,0,false
+pv100,100 MW PV,100,0,0,false
+pv200,200 MW PV,200,0,0,false
+pv200_bess50_solar,200 MW PV + 50 MW / 200 MWh BESS (solar charging only),200,50,200,false
+pv200_bess100_solar,200 MW PV + 100 MW / 400 MWh BESS (solar charging only),200,100,400,false
+pv200_bess50,200 MW PV + 50 MW / 200 MWh BESS (grid charging allowed),200,50,200,true
+pv200_bess100,200 MW PV + 100 MW / 400 MWh BESS (grid charging allowed),200,100,400,true

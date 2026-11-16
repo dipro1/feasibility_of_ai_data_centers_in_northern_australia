@@ -1,0 +1,82 @@
+SiteId,ConnectionPoint,Case,PowerFactor,SourceVoltagePu,LastPassingMW,BindingConstraint,TargetPasses
+bouldercombe_275,Bouldercombe 275 kV,intact,0.95,1.0,480.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,intact,0.95,1.03,732.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,intact,0.95,1.05,890.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,intact,0.98,1.0,623.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,intact,0.98,1.03,924.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,intact,0.98,1.05,1107.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,intact,1.0,1.0,1059.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,intact,1.0,1.03,1437.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,intact,1.0,1.05,1500.0,Sweep maximum reached,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,0.95,1.0,409.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,0.95,1.03,623.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,0.95,1.05,758.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,0.98,1.0,530.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,0.98,1.03,786.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,0.98,1.05,942.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,1.0,1.0,901.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,1.0,1.03,1223.0,Voltage below 0.95 pu,True
+bouldercombe_275,Bouldercombe 275 kV,n_minus_1,1.0,1.05,1410.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,0.95,1.0,494.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,0.95,1.03,754.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,0.95,1.05,917.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,0.98,1.0,641.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,0.98,1.03,951.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,0.98,1.05,1140.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,1.0,1.0,1090.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,1.0,1.03,1480.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,intact,1.0,1.05,1500.0,Sweep maximum reached,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,0.95,1.0,414.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,0.95,1.03,631.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,0.95,1.05,767.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,0.98,1.0,536.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,0.98,1.03,795.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,0.98,1.05,954.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,1.0,1.0,912.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,1.0,1.03,1238.0,Voltage below 0.95 pu,True
+calliope_river_275,Calliope River 275 kV,n_minus_1,1.0,1.05,1427.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,0.95,1.0,437.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,0.95,1.03,667.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,0.95,1.05,811.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,0.98,1.0,567.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,0.98,1.03,841.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,0.98,1.05,1008.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,1.0,1.0,964.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,1.0,1.03,1309.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,intact,1.0,1.05,1500.0,Sweep maximum reached,True
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,0.95,1.0,157.0,Voltage below 0.95 pu,False
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,0.95,1.03,239.0,Voltage below 0.95 pu,False
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,0.95,1.05,291.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,0.98,1.0,203.0,Voltage below 0.95 pu,False
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,0.98,1.03,301.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,0.98,1.05,361.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,1.0,1.0,345.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,1.0,1.03,469.0,Voltage below 0.95 pu,True
+larcom_creek_275,Larcom Creek 275 kV,n_minus_1,1.0,1.05,541.0,Voltage below 0.95 pu,True
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,0.95,1.0,19.0,Published thermal headroom,False
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,0.95,1.03,19.0,Published thermal headroom,False
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,0.95,1.05,19.0,Published thermal headroom,False
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,0.98,1.0,19.0,Published thermal headroom,False
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,0.98,1.03,19.0,Published thermal headroom,False
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,0.98,1.05,19.0,Published thermal headroom,False
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,1.0,1.0,20.0,Published thermal headroom,False
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,1.0,1.03,20.0,Published thermal headroom,False
+pegs_creek_22,Pegs Creek 22 kV,public_upper_bound,1.0,1.05,20.0,Published thermal headroom,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,0.95,1.0,26.0,Voltage below 0.95 pu,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,0.95,1.03,28.0,Published thermal headroom,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,0.95,1.05,28.0,Published thermal headroom,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,0.98,1.0,29.0,Published thermal headroom,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,0.98,1.03,29.0,Published thermal headroom,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,0.98,1.05,29.0,Published thermal headroom,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,1.0,1.0,30.0,Published thermal headroom,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,1.0,1.03,30.0,Published thermal headroom,False
+bulgarra_22,Bulgarra 22 kV,public_upper_bound,1.0,1.05,30.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,0.95,1.0,19.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,0.95,1.03,19.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,0.95,1.05,19.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,0.98,1.0,19.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,0.98,1.03,19.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,0.98,1.05,19.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,1.0,1.0,20.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,1.0,1.03,20.0,Published thermal headroom,False
+wedgefield_22,Wedgefield 22 kV,public_upper_bound,1.0,1.05,20.0,Published thermal headroom,False

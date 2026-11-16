@@ -1,0 +1,271 @@
+Design,Controller,Year,EnergyCostAUDm
+200 MW PV + 0 MW/0 MWh,Rule-based,2020,57.06331266374474
+200 MW PV + 0 MW/0 MWh,Rule-based,2021,131.2674671313425
+200 MW PV + 0 MW/0 MWh,Rule-based,2022,309.69221535190457
+200 MW PV + 0 MW/0 MWh,Rule-based,2023,144.60126734361015
+200 MW PV + 0 MW/0 MWh,Rule-based,2024,180.03334464830556
+200 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2020,55.79697088766528
+200 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2021,128.488471717852
+200 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2022,308.01131890717085
+200 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2023,139.7256061887039
+200 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2024,174.9175237848803
+200 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2020,57.06329188145873
+200 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2021,131.2673713163124
+200 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2022,309.69208296054865
+200 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2023,144.60117719057973
+200 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2024,180.03321933024046
+200 MW PV + 50 MW/100 MWh,Rule-based,2020,56.92736880857843
+200 MW PV + 50 MW/100 MWh,Rule-based,2021,130.3929376920081
+200 MW PV + 50 MW/100 MWh,Rule-based,2022,308.25693397544933
+200 MW PV + 50 MW/100 MWh,Rule-based,2023,143.80694401042936
+200 MW PV + 50 MW/100 MWh,Rule-based,2024,178.8723211996767
+200 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2020,53.069140599017416
+200 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2021,115.23878628033812
+200 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2022,290.1175018518149
+200 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2023,129.52539195567718
+200 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2024,161.40451114121956
+200 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2020,55.30528497115087
+200 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2021,124.50965740500459
+200 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2022,297.8096192962856
+200 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2023,136.41959387884978
+200 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2024,169.9507926404948
+200 MW PV + 50 MW/200 MWh,Rule-based,2020,56.928995473163006
+200 MW PV + 50 MW/200 MWh,Rule-based,2021,130.3929376920081
+200 MW PV + 50 MW/200 MWh,Rule-based,2022,308.25693397544933
+200 MW PV + 50 MW/200 MWh,Rule-based,2023,143.80694401042936
+200 MW PV + 50 MW/200 MWh,Rule-based,2024,178.8723211996767
+200 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2020,51.98659320550861
+200 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2021,110.9419793951365
+200 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2022,282.5393307949235
+200 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2023,125.37260310447273
+200 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2024,155.23991731830887
+200 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2020,54.297054019900095
+200 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2021,121.56331251962742
+200 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2022,290.3738696454738
+200 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2023,131.6416232390164
+200 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2024,163.16720186175382
+200 MW PV + 100 MW/200 MWh,Rule-based,2020,56.928995473163006
+200 MW PV + 100 MW/200 MWh,Rule-based,2021,130.3929376920081
+200 MW PV + 100 MW/200 MWh,Rule-based,2022,308.25693397544933
+200 MW PV + 100 MW/200 MWh,Rule-based,2023,143.80694401042936
+200 MW PV + 100 MW/200 MWh,Rule-based,2024,178.8723211996767
+200 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2020,50.70831393069628
+200 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2021,103.0756870364508
+200 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2022,273.294891735776
+200 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2023,119.86861840980916
+200 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2024,148.14684347386122
+200 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2020,53.617071699549186
+200 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2021,118.41661884611848
+200 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2022,286.7374532782332
+200 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2023,128.07120709774634
+200 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2024,159.89913144501276
+200 MW PV + 100 MW/400 MWh,Rule-based,2020,56.93174188147004
+200 MW PV + 100 MW/400 MWh,Rule-based,2021,130.3929376920081
+200 MW PV + 100 MW/400 MWh,Rule-based,2022,308.25693397544933
+200 MW PV + 100 MW/400 MWh,Rule-based,2023,143.80694401042936
+200 MW PV + 100 MW/400 MWh,Rule-based,2024,178.8723211996767
+200 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2020,48.657551984777854
+200 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2021,94.73383317271146
+200 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2022,258.58354304727686
+200 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2023,111.66460168381906
+200 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2024,136.47590641654406
+200 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2020,51.58075835582729
+200 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2021,112.98172860170108
+200 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2022,272.964142494383
+200 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2023,118.91543964895034
+200 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2024,146.8672797394721
+200 MW PV + 150 MW/600 MWh,Rule-based,2020,56.934352236269255
+200 MW PV + 150 MW/600 MWh,Rule-based,2021,130.3929376920081
+200 MW PV + 150 MW/600 MWh,Rule-based,2022,308.25693397544933
+200 MW PV + 150 MW/600 MWh,Rule-based,2023,143.80694401042936
+200 MW PV + 150 MW/600 MWh,Rule-based,2024,178.8723211996767
+200 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2020,45.72905278859859
+200 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2021,80.14577492760613
+200 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2022,236.9244697660958
+200 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2023,98.67361784729353
+200 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2024,118.66326946751431
+200 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2020,49.274865408369244
+200 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2021,104.70023775967789
+200 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2022,258.0699110491341
+200 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2023,106.98838297046414
+200 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2024,131.83631075540987
+300 MW PV + 0 MW/0 MWh,Rule-based,2020,50.611174784869846
+300 MW PV + 0 MW/0 MWh,Rule-based,2021,120.73975212956618
+300 MW PV + 0 MW/0 MWh,Rule-based,2022,286.8130818921203
+300 MW PV + 0 MW/0 MWh,Rule-based,2023,137.07390124487932
+300 MW PV + 0 MW/0 MWh,Rule-based,2024,170.96453836428384
+300 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2020,48.97639104970712
+300 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2021,117.3908181517464
+300 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2022,284.6903540667289
+300 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2023,130.588129850907
+300 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2024,164.06974238431326
+300 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2020,50.61115154940354
+300 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2021,120.7396538767257
+300 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2022,286.8129453777038
+300 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2023,137.0738140254148
+300 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2024,170.96442493294484
+300 MW PV + 50 MW/100 MWh,Rule-based,2020,50.49148578890898
+300 MW PV + 50 MW/100 MWh,Rule-based,2021,119.9359499897475
+300 MW PV + 50 MW/100 MWh,Rule-based,2022,285.51180986311243
+300 MW PV + 50 MW/100 MWh,Rule-based,2023,136.34460081674194
+300 MW PV + 50 MW/100 MWh,Rule-based,2024,169.97660401760317
+300 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2020,46.236623673881695
+300 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2021,104.46885300423301
+300 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2022,266.32465821908744
+300 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2023,120.29464297783062
+300 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2024,150.49016641116145
+300 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2020,48.54348387077095
+300 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2021,113.52883155853299
+300 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2022,274.04739011929945
+300 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2023,128.89379166398538
+300 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2024,160.82909599793922
+300 MW PV + 50 MW/200 MWh,Rule-based,2020,50.49314921824661
+300 MW PV + 50 MW/200 MWh,Rule-based,2021,119.9359499897475
+300 MW PV + 50 MW/200 MWh,Rule-based,2022,285.51180986311243
+300 MW PV + 50 MW/200 MWh,Rule-based,2023,136.34460081674194
+300 MW PV + 50 MW/200 MWh,Rule-based,2024,169.97660401760317
+300 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2020,44.90431197010776
+300 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2021,99.96254353964828
+300 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2022,258.1020246137043
+300 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2023,115.96666941473143
+300 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2024,144.15543264451233
+300 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2020,47.2433299366633
+300 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2021,110.3542890610707
+300 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2022,266.2980687995295
+300 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2023,124.14628992548681
+300 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2024,154.02419109485862
+300 MW PV + 100 MW/200 MWh,Rule-based,2020,50.49314921824661
+300 MW PV + 100 MW/200 MWh,Rule-based,2021,119.9359499897475
+300 MW PV + 100 MW/200 MWh,Rule-based,2022,285.51180986311243
+300 MW PV + 100 MW/200 MWh,Rule-based,2023,136.34460081674194
+300 MW PV + 100 MW/200 MWh,Rule-based,2024,169.97660401760317
+300 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2020,43.770618295676016
+300 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2021,92.6655255754191
+300 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2022,249.3618828954099
+300 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2023,110.63609859189764
+300 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2024,137.19832679188897
+300 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2020,46.53155513515296
+300 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2021,107.05564334462875
+300 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2022,262.16397476684665
+300 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2023,120.3989408785682
+300 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2024,150.46537151521807
+300 MW PV + 100 MW/400 MWh,Rule-based,2020,50.49595182040597
+300 MW PV + 100 MW/400 MWh,Rule-based,2021,119.9359499897475
+300 MW PV + 100 MW/400 MWh,Rule-based,2022,285.51180986311243
+300 MW PV + 100 MW/400 MWh,Rule-based,2023,136.34460081674194
+300 MW PV + 100 MW/400 MWh,Rule-based,2024,169.97660401760317
+300 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2020,41.45613130238393
+300 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2021,84.11508890505826
+300 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2022,233.97703538684502
+300 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2023,102.1483066114846
+300 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2024,125.25684830245982
+300 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2020,44.240119996128485
+300 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2021,101.54873509581239
+300 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2022,247.44423008641726
+300 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2023,111.14568004822979
+300 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2024,137.21124146337058
+300 MW PV + 150 MW/600 MWh,Rule-based,2020,50.49860993107173
+300 MW PV + 150 MW/600 MWh,Rule-based,2021,119.9359499897475
+300 MW PV + 150 MW/600 MWh,Rule-based,2022,285.51180986311243
+300 MW PV + 150 MW/600 MWh,Rule-based,2023,136.34460081674194
+300 MW PV + 150 MW/600 MWh,Rule-based,2024,169.97660401760317
+300 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2020,38.3726987568878
+300 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2021,69.87564479190662
+300 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2022,211.73857058589726
+300 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2023,88.90093685416669
+300 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2024,107.35834915501411
+300 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2020,41.690745896844646
+300 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2021,92.77591682095175
+300 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2022,230.9647564131533
+300 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2023,98.47696524125554
+300 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2024,121.22349062342495
+400 MW PV + 0 MW/0 MWh,Rule-based,2020,48.16358738154277
+400 MW PV + 0 MW/0 MWh,Rule-based,2021,115.08472784606676
+400 MW PV + 0 MW/0 MWh,Rule-based,2022,274.7786863262203
+400 MW PV + 0 MW/0 MWh,Rule-based,2023,132.1576201679679
+400 MW PV + 0 MW/0 MWh,Rule-based,2024,164.49700000282556
+400 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2020,46.501113533779574
+400 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2021,111.67500635848448
+400 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2022,272.61453293175214
+400 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2023,125.47332828198876
+400 MW PV + 0 MW/0 MWh,Price-aware LP (perfect foresight),2024,157.37922264476015
+400 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2020,48.16356474130741
+400 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2021,115.08463108308035
+400 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2022,274.7785409816863
+400 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2023,132.1575318782398
+400 MW PV + 0 MW/0 MWh,"Price-aware, day-ahead forecast",2024,164.49688843389606
+400 MW PV + 50 MW/100 MWh,Rule-based,2020,48.055146556689586
+400 MW PV + 50 MW/100 MWh,Rule-based,2021,114.34089066797944
+400 MW PV + 50 MW/100 MWh,Rule-based,2022,273.5984825308164
+400 MW PV + 50 MW/100 MWh,Rule-based,2023,131.47894561922274
+400 MW PV + 50 MW/100 MWh,Rule-based,2024,163.6388840550071
+400 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2020,43.62920804726905
+400 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2021,98.83217140004258
+400 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2022,253.59271119577846
+400 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2023,115.07577627055207
+400 MW PV + 50 MW/100 MWh,Price-aware LP (perfect foresight),2024,143.63540567838362
+400 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2020,45.89057179678164
+400 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2021,107.52426390447789
+400 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2022,260.9670920111207
+400 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2023,123.69899964658784
+400 MW PV + 50 MW/100 MWh,"Price-aware, day-ahead forecast",2024,154.11657418851397
+400 MW PV + 50 MW/200 MWh,Rule-based,2020,48.056846750780245
+400 MW PV + 50 MW/200 MWh,Rule-based,2021,114.34089066797944
+400 MW PV + 50 MW/200 MWh,Rule-based,2022,273.5984825308164
+400 MW PV + 50 MW/200 MWh,Rule-based,2023,131.47894561922274
+400 MW PV + 50 MW/200 MWh,Rule-based,2024,163.6388840550071
+400 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2020,41.989080137377876
+400 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2021,94.01738950859419
+400 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2022,244.32431849997909
+400 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2023,110.43189531901719
+400 MW PV + 50 MW/200 MWh,Price-aware LP (perfect foresight),2024,136.99440508453912
+400 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2020,44.30619556201906
+400 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2021,103.65010544868605
+400 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2022,252.50980861007005
+400 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2023,118.88683871340103
+400 MW PV + 50 MW/200 MWh,"Price-aware, day-ahead forecast",2024,147.1250176230121
+400 MW PV + 100 MW/200 MWh,Rule-based,2020,48.056846750780245
+400 MW PV + 100 MW/200 MWh,Rule-based,2021,114.34089066797944
+400 MW PV + 100 MW/200 MWh,Rule-based,2022,273.5985551533081
+400 MW PV + 100 MW/200 MWh,Rule-based,2023,131.47894561922274
+400 MW PV + 100 MW/200 MWh,Rule-based,2024,163.6388840550071
+400 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2020,40.93970263073407
+400 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2021,87.07047619697116
+400 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2022,235.82626164669165
+400 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2023,105.24963369973423
+400 MW PV + 100 MW/200 MWh,Price-aware LP (perfect foresight),2024,130.2554952236535
+400 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2020,43.63573426890129
+400 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2021,100.45253677647692
+400 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2022,247.66168395612044
+400 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2023,115.02865259595467
+400 MW PV + 100 MW/200 MWh,"Price-aware, day-ahead forecast",2024,143.64056776371328
+400 MW PV + 100 MW/400 MWh,Rule-based,2020,48.059453956277615
+400 MW PV + 100 MW/400 MWh,Rule-based,2021,114.34089066797944
+400 MW PV + 100 MW/400 MWh,Rule-based,2022,273.5985551533081
+400 MW PV + 100 MW/400 MWh,Rule-based,2023,131.47894561922274
+400 MW PV + 100 MW/400 MWh,Rule-based,2024,163.6388840550071
+400 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2020,37.84672936475118
+400 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2021,78.01541159929327
+400 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2022,218.31454795719512
+400 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2023,96.17953716192334
+400 MW PV + 100 MW/400 MWh,Price-aware LP (perfect foresight),2024,117.68668924448716
+400 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2020,40.68371585849669
+400 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2021,93.41626891956545
+400 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2022,231.66264223760624
+400 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2023,105.75072572135163
+400 MW PV + 100 MW/400 MWh,"Price-aware, day-ahead forecast",2024,130.12361673804583
+400 MW PV + 150 MW/600 MWh,Rule-based,2020,48.061285643140174
+400 MW PV + 150 MW/600 MWh,Rule-based,2021,114.34089066797944
+400 MW PV + 150 MW/600 MWh,Rule-based,2022,273.5985551533081
+400 MW PV + 150 MW/600 MWh,Rule-based,2023,131.47894561922274
+400 MW PV + 150 MW/600 MWh,Rule-based,2024,163.6388840550071
+400 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2020,33.94721890149749
+400 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2021,63.45201022729072
+400 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2022,194.52455448630135
+400 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2023,82.52624436641668
+400 MW PV + 150 MW/600 MWh,Price-aware LP (perfect foresight),2024,99.69589544680198
+400 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2020,37.32675329614504
+400 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2021,83.94162707678926
+400 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2022,212.58732164337042
+400 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2023,93.16442386523845
+400 MW PV + 150 MW/600 MWh,"Price-aware, day-ahead forecast",2024,114.02699601045147

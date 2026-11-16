@@ -1,0 +1,4 @@
+line_id,from_bus,to_bus,length_km,rating_mva,r1_ohm_per_km,x1_ohm_per_km,c1_nf_per_km,data_status
+krt_pck,krt,pck,4.3,157,0.08,0.38,9.0,Length and rating published; positive-sequence impedance and capacitance assumed
+krt_bul,krt,bul,4.1,157,0.08,0.38,9.0,Length and rating published; positive-sequence impedance and capacitance assumed
+bul_pck,bul,pck,3.1,157,0.08,0.38,9.0,Length and rating published; positive-sequence impedance and capacitance assumed

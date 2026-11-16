@@ -1,0 +1,2 @@
+transformer_id,hv_bus,lv_bus,hv_kv,lv_kv,rating_mva,percent_r,percent_x,vector_group,tap_position,tap_step_percent,data_status
+EXAMPLE_TRANSFORMER,POC,LOAD_BUS,,,,,,,,,replace_with_utility_data

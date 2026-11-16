@@ -1,0 +1,142 @@
+station,duid,region,co2e_t_per_mwh,energy_source,data_source
+Aldoga Solar Farm,ALDGASF1,QLD1,0.0,Solar,ISP2024
+Baking Board Solar Farm,BAKING1,QLD1,0.0,Solar,ISP2024
+Barcaldine Power Station,BARCALDN,QLD1,0.79326288,Natural Gas (Pipeline),ISP2024
+Barcaldine Solar Farm,BARCSF1,QLD1,0.0,Solar,ISP2024
+Barron Gorge Power Station,BARRON-1,QLD1,0.0,Hydro,ISP2024
+Barron Gorge Power Station,BARRON-2,QLD1,0.0,Hydro,ISP2024
+Bouldercombe Battery Project,BBATTERY1,QLD1,0.0,Battery Storage,ISP 2020
+Blue Grass Solar Farm,BLUEGSF1,QLD1,0.0,Solar,ISP2024
+Browns Plains Landfill Gas PS,BPLANDF1,QLD1,0.0717325,Landfill biogas methane,NGA 2024
+Braemar Power Station,BRAEMAR1,QLD1,0.61652758,Coal seam methane,ISP2024
+Braemar Power Station,BRAEMAR2,QLD1,0.61652758,Coal seam methane,ISP2024
+BRAEMAR 2 POWER STATION,BRAEMAR5,QLD1,0.61652758,Coal seam methane,ISP2024
+BRAEMAR 2 POWER STATION,BRAEMAR7,QLD1,0.61652758,Coal seam methane,ISP2024
+Broadsound Energy Park,BRDDBES1,QLD1,0.0,Battery Storage,ISP2024
+Broadsound Energy Park,BRDDSF01,QLD1,0.0,Solar,ISP2024
+Brendale BESS,BRNDBES1,QLD1,0.0,Battery Storage,ISP2024
+Bundaberg Solar Farm,BUSF1,QLD1,0.0,Solar,ISP2024
+Callide Power Station,CALL_B_1,QLD1,0.94284091,Black coal,ISP2024
+Callide Power Station,CALL_B_2,QLD1,0.94284091,Black coal,ISP2024
+Callide Power Station,CALLNL1,QLD1,0.94284091,Black coal,ISP2024
+Chinchilla BESS,CHBESS1,QLD1,0.0,Battery Storage,ISP2022
+Childers Solar Farm,CHILDSF1,QLD1,0.0,Solar,ISP2024
+Clare Solar Farm,CLARESF1,QLD1,0.0,Solar,ISP2024
+Clermont Solar Farm,CLERMSF1,QLD1,0.0,Solar,ISP2024
+Clarke Creek Wind Farm,CLRKCWF1,QLD1,0.0,Wind,ISP2022
+Clarke Creek Wind Farm,CLRKCWF2,QLD1,0.0,Wind,ISP2022
+Columboola Solar Farm,COLUMSF1,QLD1,0.0,Solar,ISP2024
+Coopers Gap Wind Farm,COOPGWF1,QLD1,0.0,Wind,ISP2024
+CALLIDE C NETT OFF,CPP_3,QLD1,0.87395274,Black coal,ISP2024
+CALLIDE C NETT OFF,CPP_4,QLD1,0.87395274,Black coal,ISP2024
+Condamine Power Station A,CPSA,QLD1,0.44878003,Natural Gas (Pipeline),ISP2024
+Collinsville Solar PV Power Station,CSPVPS1,QLD1,0.0,Solar,ISP2024
+Daydream Solar Farm,DAYDSF1,QLD1,0.0,Solar,ISP2024
+Darling Downs Power Station,DDPS1,QLD1,0.42066783,Natural Gas (Pipeline),ISP2024
+Darling Downs Solar Farm,DDSF1,QLD1,0.0,Solar,ISP2024
+Dulacca Wind Farm,DULAWF1,QLD1,0.0,Wind,ISP2024
+Edenvale Solar Park,EDENVSF1,QLD1,0.0,Solar,ISP2024
+Emerald Solar Park,EMERASF1,QLD1,0.0,Solar,ISP2024
+Gangarri Solar Farm,GANGARR1,QLD1,0.0,Solar,ISP2024
+German Creek Power Station,GERMCRK,QLD1,0.0717325,Landfill biogas methane,NGA 2024
+GLADSTONE POWER STATION,GLADNL1,QLD1,0.9858045,Black coal,ISP2024
+Greenbank BESS,GREENB1,QLD1,0.0,Battery Storage,ISP2022
+Grosvenor 1 Waste Coal Mine Gas Power Station,GROSV1,QLD1,0.6336557,Coal mine waste gas,NGA 2024
+Grosvenor 2,GROSV2,QLD1,0.6336557,Coal mine waste gas,NGA 2024
+GLADSTONE POWER STATION,GSTONE1,QLD1,0.9858045,Black coal,ISP2024
+GLADSTONE POWER STATION,GSTONE2,QLD1,0.9858045,Black coal,ISP2024
+GLADSTONE POWER STATION,GSTONE3,QLD1,0.9858045,Black coal,ISP2024
+GLADSTONE POWER STATION,GSTONE4,QLD1,0.9858045,Black coal,ISP2024
+GLADSTONE POWER STATION,GSTONE5,QLD1,0.9858045,Black coal,ISP2024
+GLADSTONE POWER STATION,GSTONE6,QLD1,0.9858045,Black coal,ISP2024
+Gunsynd Solar Farm,GUSF1,QLD1,0.0,Solar,ISP2024
+Hamilton Solar Farm,HAMISF1,QLD1,0.0,Solar,ISP2024
+"Haughton Solar Farm Stage 1, Units 1-81",HAUGHT11,QLD1,0.0,Solar,ISP2024
+Hayman Solar Farm,HAYMSF1,QLD1,0.0,Solar,ISP2024
+Hughenden Solar Farm,HUGSF1,QLD1,0.0,Solar,ISP2024
+ISIS Central Sugar Mill Co-generation Plant,ICSM,QLD1,0.01561827,Bagasse,NGA 2024
+Kaban Wind Farm,KABANWF1,QLD1,0.0,Wind,ISP2024
+KAREEYA POWER STATION,KAREEYA1,QLD1,0.0,Hydro,ISP2024
+KAREEYA POWER STATION,KAREEYA2,QLD1,0.0,Hydro,ISP2024
+KAREEYA POWER STATION,KAREEYA5,QLD1,0.0,Hydro,ISP2024
+Kennedy Energy Park,KEPBG1,QLD1,0.0,Battery Storage,Estimate - Other
+Kennedy Energy Park,KEPSF1,QLD1,0.0,Solar,ISP2024
+Kennedy Energy Park,KEPWF1,QLD1,0.0,Wind,ISP2024
+Kidston Hydro Project,KIDSPHG1,QLD1,0.0,Hydro,ISP2024
+Kidston Hydro Project,KIDSPHG2,QLD1,0.0,Hydro,ISP2024
+Kingaroy Solar Farm,KINGASF1,QLD1,0.0,Solar,ISP2024
+Kogan Creek Power Station,KPP_1,QLD1,0.86193352,Black coal,ISP2024
+Kidston Solar Project,KSP1,QLD1,0.0,Solar,ISP2024
+Lilyvale Solar Farm,LILYSF1,QLD1,0.0,Solar,ISP2024
+Longreach Solar Farm,LRSF1,QLD1,0.0,Solar,ISP2024
+Maryrorough Solar Farm,MARYRSF1,QLD1,0.0,Solar,ISP2024
+Moranbah North Waste Coal Mine Gas Power Station,MBAHNTH,QLD1,0.6336557,Coal mine waste gas,NGA 2024
+MacIntyre Wind Farm,MCINTYR1,QLD1,0.0,Wind,ISP2024
+Mount Emerald Wind Farm,MEWF1,QLD1,0.0,Wind,ISP2024
+Middlemount Solar Farm,MIDDLSF1,QLD1,0.0,Solar,ISP2024
+Moranbah Generation Project,MORANBAH,QLD1,0.56318004,Coal seam methane,NGA 2024
+Moura Solar Farm,MOUSF1,QLD1,0.0,Solar,ISP2024
+Millmerran Power Plant,MPP_1,QLD1,0.82524986,Black coal,ISP2024
+Millmerran Power Plant,MPP_2,QLD1,0.82524986,Black coal,ISP2024
+Mt Stuart Power Station,MSTUART1,QLD1,1.00163056,Kerosene - non aviation,ISP2024
+Mt Stuart Power Station,MSTUART2,QLD1,1.00163056,Kerosene - non aviation,ISP2024
+Mt Stuart Power Station,MSTUART3,QLD1,1.00163056,Kerosene - non aviation,ISP2024
+Munna Creek Solar Farm,MUCRKSF1,QLD1,0.0,Solar,ISP2024
+OAKEY POWER STATION,OAKEY1,QLD1,0.6636832,Natural Gas (Pipeline),ISP2024
+Oakey 1 Solar Farm,OAKEY1SF,QLD1,0.0,Solar,ISP2024
+OAKEY POWER STATION,OAKEY2,QLD1,0.6636832,Natural Gas (Pipeline),ISP2024
+Oakey 2 Solar Farm,OAKEY2SF,QLD1,0.0,Solar,ISP2024
+Oaky Creek 2,OAKY2,QLD1,0.6336557,Coal mine waste gas,NGA 2024
+Oaky Creek Power Station,OAKYCREK,QLD1,0.60223865,Natural Gas (Pipeline),NGA 2024
+Pioneer Sugar Mill,PIONEER,QLD1,0.02008064,Biomass and industrial materials,NGA 2024
+Racecourse Mill Power Station,RACOMIL1,QLD1,0.02008064,Biomass and industrial materials,NGA 2024
+Roma Gas Turbine Station,ROMA_7,QLD1,0.64989842,Natural Gas (Pipeline),ISP2024
+Roma Gas Turbine Station,ROMA_8,QLD1,0.64989842,Natural Gas (Pipeline),ISP2024
+Rocky Point Cogeneration Plant,RPCG,QLD1,0.02008064,Biomass and industrial materials,NGA 2024
+Ross River Solar Farm,RRSF1,QLD1,0.0,Solar,ISP2024
+Rugby Run Solar Farm,RUGBYR1,QLD1,0.0,Solar,ISP2024
+Sun Metals Solar Farm,SMCSF1,QLD1,0.0,Solar,ISP2024
+Supernode BESS,SNB01,QLD1,0.0,Battery Storage,ISP2024
+Supernode BESS,SNB02,QLD1,0.0,Battery Storage,ISP2024
+Susan River Solar Farm,SRSF1,QLD1,0.0,Solar,ISP2024
+Stanwell Battery Energy Storage System,STABESS1,QLD1,0.0,Battery Storage,ISP2024
+STANWELL POWER STATION,STAN-1,QLD1,0.86346126,Black coal,ISP2024
+STANWELL POWER STATION,STAN-2,QLD1,0.86346126,Black coal,ISP2024
+STANWELL POWER STATION,STAN-3,QLD1,0.86346126,Black coal,ISP2024
+STANWELL POWER STATION,STAN-4,QLD1,0.86346126,Black coal,ISP2024
+STANWELL POWER STATION,STANNL1,QLD1,0.86346126,Black coal,ISP2024
+Stapylton Renewable Energy Facility,STAPYLTON1,QLD1,0.0717325,Landfill biogas methane,NGA 2024
+Swanbank B Power Station & Swanbank E Gas Turbine,SWAN_E,QLD1,0.39397667,Natural Gas (Pipeline),ISP2024
+Swanbank BESS,SWANBBF1,QLD1,0.0,Battery Storage,ISP2024
+Tableland Mill Unit 2,TABMILL2,QLD1,0.02008064,Biomass and industrial materials,NGA 2024
+Tarong BESS,TARBESS1,QLD1,0.0,Battery Storage,ISP2022
+TARONG POWER STATION,TARNL1,QLD1,0.8865998,Black coal,ISP2024
+TARONG POWER STATION,TARONG#1,QLD1,0.8865998,Black coal,ISP2024
+TARONG POWER STATION,TARONG#2,QLD1,0.8865998,Black coal,ISP2024
+TARONG POWER STATION,TARONG#3,QLD1,0.8865998,Black coal,ISP2024
+TARONG POWER STATION,TARONG#4,QLD1,0.8865998,Black coal,ISP2024
+Veolia Ti Tree Bio Reactor,TITREE,QLD1,0.0717325,Landfill biogas methane,NGA 2024
+Tarong North Power Station,TNPS1,QLD1,0.8865998,Black coal,ISP2024
+Ulinda Park BESS,ULPBESS1,QLD1,0.0,Battery Storage,ISP2024
+SCSF,VALDORA1,QLD1,0.0,Solar,ISP2024
+Victoria Mill,VICMILL1,QLD1,0.02008064,Biomass and industrial materials,NGA 2024
+WIVENHOE POWER STATION,W/HOE#1,QLD1,0.0,Hydro,ISP2024
+WIVENHOE POWER STATION,W/HOE#2,QLD1,0.0,Hydro,ISP2024
+Wambo Wind Farm 1,WAMBOWF1,QLD1,0.0,Wind,ISP2024
+Wambo Wind Farm 2,WAMBOWF2,QLD1,0.0,Wind,ISP2024
+Wandoan BESS,WANDB1,QLD1,0.0,Battery Storage,ISP2024
+Wandoan Solar Farm,WANDSF1,QLD1,0.0,Solar,ISP2024
+Wandoan Solar Farm,WANDSF2,QLD1,0.0,Solar,ISP2024
+WARWICK SOLAR FARM 1,WARWSF1,QLD1,0.0,Solar,ISP2024
+WARWICK SOLAR FARM 2,WARWSF2,QLD1,0.0,Solar,ISP2024
+Western Downs Battery Energy Storage System (BESS),WDBESS1,QLD1,0.0,Battery Storage,ISP2022
+Western Downs Battery Energy Storage System (BESS),WDBESS2,QLD1,0.0,Battery Storage,ISP2024
+Western Downs GPH,WDGPH1,QLD1,0.0,Solar,ISP2024
+Windy Hill Wind Farm,WHILL1,QLD1,0.0,Wind,ISP2024
+Whitsunday Solar Farm,WHITSF1,QLD1,0.0,Solar,ISP2024
+Woolooga BESS,WOOLES1,QLD1,0.0,Battery Storage,ISP2024
+Woolooga Solar Farm,WOOLGSF1,QLD1,0.0,Solar,ISP2024
+Townsville Gas Turbine,YABULU,QLD1,0.57180919,Natural Gas (Pipeline),ISP2024
+Townsville Gas Turbine,YABULU2,QLD1,0.57180919,Natural Gas (Pipeline),ISP2024
+Yarranlea Solar Farm,YARANSF1,QLD1,0.0,Solar,ISP2024
+Yarwun Power Station,YARWUN_1,QLD1,0.45880843,Natural Gas (Pipeline),ISP2024

@@ -1,0 +1,9 @@
+Bus,Name,PowerFactor,IntactHostingMW,IntactLimitingBus,WorstN1HostingMW,WorstOutage,N1LimitingBus,SingleBusTheveninIntactMW,TargetPassesN1
+BOUL,Bouldercombe,0.98,623.0,BOUL,584.0,BOUL_RAGL_1,BOUL,623.0,True
+CALR,Calliope River,0.98,610.0,CALR,544.0,CALV_WURD_1,CALR,641.0,True
+LARC,Larcom Creek,0.98,571.0,LARC,324.0,LARC_CALR_1,LARC,567.0,True
+STAN,Stanwell,0.98,644.0,STAN,610.0,STAN_CALV_1,STAN,nan,True
+GLPS,Gladstone PS,0.98,609.0,GLPS,544.0,CALV_WURD_1,GLPS,nan,True
+WURD,Wurdong,0.98,562.0,WURD,363.0,CALR_WURD_1,WURD,nan,True
+CALV,Calvale,0.98,631.0,CALV,575.0,CALV_WURD_1,CALV,nan,True
+RAGL,Raglan,0.98,538.0,RAGL,384.0,RAGL_LARC_1,RAGL,nan,True

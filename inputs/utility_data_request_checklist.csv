@@ -1,0 +1,20 @@
+category,requested_field,unit_or_format,required_for
+Connection,Confirmed point of connection,bus name and nominal kV,All studies
+Network,Positive-sequence line impedance,R1 and X1 ohm/km,Load flow
+Network,Zero-sequence line impedance,R0 and X0 ohm/km,Fault and unbalance studies
+Network,Transformer data,MVA percent impedance vector group taps,Load flow and fault
+Ratings,Normal and emergency branch ratings,A or MVA,Thermal hosting capacity
+Topology,Normal switching state,bus-branch list,Intact case
+Topology,Credible outage list,element IDs,N-1 cases
+Operating case,Background demand,MW and MVAr by bus,Maximum and minimum demand
+Operating case,Generation dispatch,MW MVAr and limits,Coincident scenarios
+Controls,Voltage-control devices,setpoints and deadbands,Voltage assessment
+Fault level,Minimum and maximum fault levels,three-phase and single-phase,Protection screen
+Criteria,Planning limits,voltage thermal PF contingency,Pass/fail rules
+Models,Data-centre load model,P Q profile ramp and ride-through,Connection study
+Models,PV and BESS models,rating controls efficiency SOC,Renewable integration
+Criteria,Large-load voltage-step and flicker limits,percent and Pst/Plt,Load-trip and training-swing screen
+Criteria,Maximum single load-rejection or pickup,MW,Large-load dynamic screen
+System,System strength / SSLF at node,SCR or SSLF,Converter-load stability
+System (NWIS),Largest credible load loss and spinning reserve,MW,Frequency and adequacy assessment
+Economics,Network tariff and connection charges,AUD/kW/yr and AUD,Cost of supply

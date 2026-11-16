@@ -1,0 +1,2 @@
+contingency_id,element_type,element_id,description,data_status
+N_MINUS_1_EXAMPLE,line,EXAMPLE_LINE,Replace with an approved credible outage,replace_with_utility_data

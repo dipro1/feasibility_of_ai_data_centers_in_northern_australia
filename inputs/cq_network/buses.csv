@@ -1,0 +1,13 @@
+bus_id,name,nominal_kv,latitude,longitude,min_normal_fault_ka,min_n1_fault_ka,max_fault_ka,bus_type,minimum_voltage_pu,maximum_voltage_pu,data_status
+STAN,Stanwell,275,-23.51,150.32,10.8,9.0,25.2,source,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+BOUL,Bouldercombe,275,-23.56,150.49,10.1,8.6,22.0,PQ,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+RAGL,Raglan,275,-23.73,150.84,7.7,4.3,12.5,PQ,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+LARC,Larcom Creek,275,-23.81,151.02,9.2,3.3,16.7,PQ,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+CALR,Calliope River,275,-23.88,151.18,10.4,8.7,22.1,PQ,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+GLPS,Gladstone PS,275,-23.85,151.30,9.9,8.4,20.4,source,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+WURD,Wurdong,275,-24.00,151.22,9.4,6.4,17.3,PQ,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+CALV,Calvale,275,-24.35,150.62,10.2,8.4,24.4,source,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+BROD,Broadsound,275,-22.45,149.62,6.0,4.9,16.1,PQ,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+NEBO,Nebo,275,-21.70,148.70,4.6,4.0,12.1,source,0.95,1.05,Fault levels published (TAPR 2025 App. I); northern system equivalent source
+LILY,Lilyvale,275,-23.40,148.15,3.5,2.6,6.8,PQ,0.95,1.05,Fault levels published (TAPR 2025 App. I); coordinates approximate for drawing only
+GING,Gin Gin,275,-24.98,151.95,6.1,4.3,9.6,source,0.95,1.05,Fault levels published (TAPR 2025 App. I); southern system equivalent source

@@ -1,0 +1,10 @@
+Statistic,Value,Unit
+Minimum,1.0,MW
+P05,53.0,MW
+P50,82.0,MW
+P95,88.0,MW
+Maximum,93.0,MW
+ProbabilityAtLeast245MW,0.0,fraction
+ShareOfSamplesThermallyLimited,0.916,fraction
+LineRatingCeilingMW,94.0,MW
+Samples,1000.0,count

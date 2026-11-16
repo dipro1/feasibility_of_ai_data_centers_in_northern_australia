@@ -1,0 +1,46 @@
+SourceVoltagePu,AssumedSourceFaultMVA,PowerFactor,IntactHostingEstimateMW,FirmNMinus1HostingEstimateMW,BindingNMinus1Scenario,BindingConstraint,Classification
+1.0,750.0,0.95,5.0,0.0,n_minus_1_krt_pck,Base case already fails (PCK voltage below 0.95 pu),Sensitivity range; source strength and line impedances are not utility-validated
+1.0,1000.0,0.95,27.0,17.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,1500.0,0.95,69.0,50.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,3000.0,0.95,160.0,76.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,5000.0,0.95,164.0,78.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,750.0,0.98,6.0,0.0,n_minus_1_krt_pck,Base case already fails (PCK voltage below 0.95 pu),Sensitivity range; source strength and line impedances are not utility-validated
+1.0,1000.0,0.98,35.0,22.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,1500.0,0.98,90.0,64.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,3000.0,0.98,167.0,79.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,5000.0,0.98,170.0,81.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,750.0,1.0,13.0,0.0,n_minus_1_krt_pck,Base case already fails (PCK voltage below 0.95 pu),Sensitivity range; source strength and line impedances are not utility-validated
+1.0,1000.0,1.0,65.0,42.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,1500.0,1.0,160.0,81.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,3000.0,1.0,176.0,84.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.0,5000.0,1.0,178.0,85.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,750.0,0.95,42.0,33.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,1000.0,0.95,76.0,61.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,1500.0,0.95,140.0,77.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,3000.0,0.95,167.0,81.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,5000.0,0.95,171.0,82.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,750.0,0.98,53.0,42.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,1000.0,0.98,96.0,77.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,1500.0,0.98,165.0,81.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,3000.0,0.98,174.0,84.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,5000.0,0.98,178.0,85.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,750.0,1.0,89.0,70.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,1000.0,1.0,157.0,83.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,1500.0,1.0,177.0,86.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,3000.0,1.0,184.0,89.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.03,5000.0,1.0,186.0,90.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,750.0,0.95,65.0,55.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,1000.0,0.95,107.0,76.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,1500.0,0.95,162.0,80.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,3000.0,0.95,172.0,84.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,5000.0,0.95,176.0,85.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,750.0,0.98,82.0,69.0,n_minus_1_krt_pck,PCK voltage below 0.95 pu,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,1000.0,0.98,133.0,80.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,1500.0,0.98,170.0,84.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,3000.0,0.98,179.0,87.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,5000.0,0.98,183.0,89.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,750.0,1.0,128.0,82.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,1000.0,1.0,174.0,86.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,1500.0,1.0,182.0,89.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,3000.0,1.0,189.0,92.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated
+1.05,5000.0,1.0,191.0,93.0,n_minus_1_krt_pck,Thermal rating of bul_pck,Sensitivity range; source strength and line impedances are not utility-validated

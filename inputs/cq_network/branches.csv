@@ -1,0 +1,23 @@
+branch_id,from_bus,to_bus,length_km,r1_ohm_per_km,x1_ohm_per_km,r0_ohm_per_km,x0_ohm_per_km,normal_rating_mva,emergency_rating_mva,in_service,data_status
+STAN_BOUL_1,STAN,BOUL,14.9,0.03,0.32,0.09,0.96,,,true,OSM route length; circuit count assumed; typical 275 kV impedance; rating unknown
+STAN_BOUL_2,STAN,BOUL,14.9,0.03,0.32,0.09,0.96,,,true,OSM route length; circuit count assumed; typical 275 kV impedance; rating unknown
+BOUL_RAGL_1,BOUL,RAGL,41.5,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 Ch.6 lists Bouldercombe-Raglan as a Gladstone grid-section circuit; typical 275 kV impedance; rating unknown
+RAGL_LARC_1,RAGL,LARC,22.5,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Raglan into Larcom Creek 1 circuit; typical 275 kV impedance; rating unknown
+LARC_CALR_1,LARC,CALR,10.9,0.03,0.32,0.09,0.96,,,true,OSM route length and circuits tag (1); typical 275 kV impedance; rating unknown
+BOUL_CALR_1,BOUL,CALR,97.1,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Bouldercombe into Calliope River 1 circuit; typical 275 kV impedance; rating unknown
+BOUL_BROD_1,BOUL,BROD,141.4,0.03,0.32,0.09,0.96,,,true,OSM route length; circuit count assumed; typical 275 kV impedance; rating unknown
+BOUL_NEBO_1,BOUL,NEBO,290.3,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Bouldercombe into Nebo 1 circuit; typical 275 kV impedance; rating unknown
+BROD_NEBO_1,BROD,NEBO,149.6,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Broadsound into Nebo 3 circuits; typical 275 kV impedance; rating unknown
+BROD_NEBO_2,BROD,NEBO,149.6,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Broadsound into Nebo 3 circuits; typical 275 kV impedance; rating unknown
+BROD_NEBO_3,BROD,NEBO,149.6,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Broadsound into Nebo 3 circuits; typical 275 kV impedance; rating unknown
+STAN_BROD_1,STAN,BROD,124.7,0.03,0.32,0.09,0.96,,,true,OSM route length; circuit count assumed; typical 275 kV impedance; rating unknown
+BROD_LILY_1,BROD,LILY,106.2,0.03,0.32,0.09,0.96,,,true,OSM route length and circuits tag (1); typical 275 kV impedance; rating unknown
+CALR_GLPS_1,CALR,GLPS,0.5,0.03,0.32,0.09,0.96,,,true,Adjacent switchyards (OSM 0.4 km); circuit count assumed; typical 275 kV impedance; rating unknown
+CALR_GLPS_2,CALR,GLPS,0.5,0.03,0.32,0.09,0.96,,,true,Adjacent switchyards (OSM 0.4 km); circuit count assumed; typical 275 kV impedance; rating unknown
+CALR_WURD_1,CALR,WURD,14.9,0.03,0.32,0.09,0.96,,,true,OSM route length and circuits tag (1); TAPR Ch.6 Gladstone grid-section circuit; typical 275 kV impedance; rating unknown
+CALV_WURD_1,CALV,WURD,91.7,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Calvale into Wurdong 1 circuit; typical 275 kV impedance; rating unknown
+STAN_CALV_1,STAN,CALV,98.8,0.03,0.32,0.09,0.96,,,true,OSM route length; circuit count assumed; typical 275 kV impedance; rating unknown
+STAN_CALV_2,STAN,CALV,98.8,0.03,0.32,0.09,0.96,,,true,OSM route length; circuit count assumed; typical 275 kV impedance; rating unknown
+CALR_GING_1,CALR,GING,133.7,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Calliope River to Gin Gin/Woolooga 2 circuits; typical 275 kV impedance; rating unknown
+CALR_GING_2,CALR,GING,133.7,0.03,0.32,0.09,0.96,,,true,OSM route length; TAPR 2025 App. G: Calliope River to Gin Gin/Woolooga 2 circuits; typical 275 kV impedance; rating unknown
+WURD_GING_1,WURD,GING,137.5,0.03,0.32,0.09,0.96,,,true,OSM route length (via Teebar Creek); TAPR 2025 App. G: Wurdong to Teebar Creek 1 circuit; typical 275 kV impedance; rating unknown

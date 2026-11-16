@@ -1,0 +1,2 @@
+branch_id,from_bus,to_bus,length_km,r1_ohm_per_km,x1_ohm_per_km,r0_ohm_per_km,x0_ohm_per_km,normal_rating_mva,emergency_rating_mva,in_service,data_status
+EXAMPLE_LINE,SOURCE,POC,,,,,,,true,replace_with_utility_data

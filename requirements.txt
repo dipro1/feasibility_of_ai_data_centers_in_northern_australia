@@ -1,0 +1,11 @@
+# Versions used to produce the committed results (Python 3.9.13, Windows 11).
+opendssdirect.py==0.9.4
+dss-python==0.15.7
+numpy==2.0.2
+pandas==2.3.3
+matplotlib==3.9.4
+scipy==1.13.1
+pvlib==0.13.0
+pytest==8.4.2
+networkx==3.2.1
+andes==1.9.3

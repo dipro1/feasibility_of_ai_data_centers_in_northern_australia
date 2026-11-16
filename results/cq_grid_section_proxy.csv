@@ -1,0 +1,5 @@
+GridSection,Case,IncrementalSectionFlowMW,EffectiveLimitMW,PeakSectionFlowMW,HoursPerYearAboveLimit,Interpretation
+Gladstone,Existing (2024/25),0.0,1188.3561643835617,1300.0,56.911544227886054,Reference
+Gladstone,245 MW at BOUL,-75.07993773470197,1188.3561643835617,1224.920062265298,17.511244377811092,Relieves the section
+Gladstone,245 MW at CALR,149.48486701308798,1188.3561643835617,1449.484867013088,328.33583208395805,Adds constraint hours (re-dispatch or augmentation needed)
+Gladstone,245 MW at both BOUL and CALR,74.39852059494403,1188.3561643835617,1374.398520594944,161.97901049475263,Adds constraint hours (re-dispatch or augmentation needed)

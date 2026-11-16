@@ -1,0 +1,13 @@
+Event,InertiaMWs,GovernorT1s,MinimumResponseShare,MinimumEquivalentPfrMWperHz,Note
+Sudden facility load loss,12000,0.5,0.37508776544492545,585.1369140940837,interpolated
+Sudden facility load loss,12000,2.0,0.6804475690319074,1061.4982076897754,interpolated
+Sudden facility load loss,12000,6.0,nan,nan,fails at every tested share
+Sudden facility load loss,13000,0.5,0.36429586380238066,568.3015475317138,interpolated
+Sudden facility load loss,13000,2.0,0.6412706795629552,1000.3822601182102,interpolated
+Sudden facility load loss,13000,6.0,nan,nan,fails at every tested share
+Sudden full load pickup,12000,0.5,0.3742517488482443,583.8327282032611,interpolated
+Sudden full load pickup,12000,2.0,0.6785827631806005,1058.5891105617368,interpolated
+Sudden full load pickup,12000,6.0,nan,nan,fails at every tested share
+Sudden full load pickup,13000,0.5,0.36343600685334176,566.9601706912132,interpolated
+Sudden full load pickup,13000,2.0,0.6393387793785287,997.3684958305047,interpolated
+Sudden full load pickup,13000,6.0,nan,nan,fails at every tested share

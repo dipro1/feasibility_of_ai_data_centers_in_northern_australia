@@ -1,0 +1,9 @@
+Statistic,Value
+DeterministicLeastCostDesign,200 MW PV + 50/100 MWh (grid chg)
+DeterministicTotalAUDm,218.43573648589722
+P10TotalAUDm,117.66816148183867
+P50TotalAUDm,216.70945318838224
+P90TotalAUDm,383.8487482071021
+ShareWhereBaseDesignIsOptimal,0.353
+MedianRegretOfBaseDesignAUDm,1.2591322809911674
+P90RegretOfBaseDesignAUDm,11.288436089949592

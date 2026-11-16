@@ -1,0 +1,2 @@
+bus_id,nominal_kv,bus_type,minimum_voltage_pu,maximum_voltage_pu,data_status
+POC,275,PQ,0.95,1.05,replace_with_utility_data
